@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TJ123098
+- 👋 Hi, I’m @TJ
 - 👀 I’m interested in compiter science  
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on ...
